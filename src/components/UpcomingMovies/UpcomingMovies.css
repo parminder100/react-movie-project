@@ -1,0 +1,12 @@
+.movie-image{
+    width:150px;
+    height:225px;
+    border-radius: 5px;
+}
+.splide__arrow{
+    top: 34% !important;
+}
+.movie-title{
+    font-weight: 600;
+    margin-bottom: 0px;
+}
